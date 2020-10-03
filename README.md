@@ -22,6 +22,5 @@
 - [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - 
 # ML and DL
-- 
 - [Stanford CS231 Convolutional Neural Networks for Visual Recgnition](http://cs231n.stanford.edu/) [[Learning Notes](https://github.com/alfmunny/CS231n-CNN))
 - [Stanford CS224n Natural Language Processing](http://web.stanford.edu/class/cs224n)
