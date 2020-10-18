@@ -5,13 +5,13 @@
 - [ ] [MIT 6.851 Advanced Data Structures](https://courses.csail.mit.edu/6.851/)
  
 # Computer Systems
-- [-] [MIT 6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) [[Learning Notes](https://github.com/alfmunny/MIT6.824-Distributed-Systems)]
+- [ ] [MIT 6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) [[Learning Notes](https://github.com/alfmunny/MIT6.824-Distributed-Systems)] :construction:
 - [ ] [MIT 6.828 Operation System Engineering](https://pdos.csail.mit.edu/6.828/) [[Learning Notes](https://github.com/alfmunny/MIT6.828-Operation-System-Engineering)]
 - [ ] [CMU 18-447 Introduction to Computer Architecture](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/computer-systems)]
 - [ ] [Operating Systems: Tree Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # Languages and Compilers
-- [-] [MIT 6.001 SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/sicp)]
+- [ ] [MIT 6.001 SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/sicp)] :construction:
 - [ ] [Stanford CS123 Compilers](http://web.stanford.edu/class/cs143/)
 - [ ] [Stanford CS243 Program Analysis and Optimization](http://web.stanford.edu/class/cs243/) 
 - [ ] [Stanford CS343 Advanced Topics in Compilers](http://web.stanford.edu/class/cs343/)
