@@ -11,10 +11,10 @@
 - [Operating Systems: Tree Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # Languages and Compilers
-- [MIT 6.001 SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) ([Learning Notes](https://github.com/alfmunny/book-notes/tree/master/sicp))
-- [Stanford CS123 Compilers](http://web.stanford.edu/class/cs143/) [[Learning Notes]()}
-- [Stanford CS243 Program Analysis and Optimization](http://web.stanford.edu/class/cs243/) [[Learning Notes]()]
-- [Stanford CS343 Advanced Topics in Compilers](http://web.stanford.edu/class/cs343/) [[Learning Notes]()]
+- [MIT 6.001 SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/sicp)]
+- [Stanford CS123 Compilers](http://web.stanford.edu/class/cs143/)
+- [Stanford CS243 Program Analysis and Optimization](http://web.stanford.edu/class/cs243/) 
+- [Stanford CS343 Advanced Topics in Compilers](http://web.stanford.edu/class/cs343/)
 
 # Math
 - [MIT 18.01 Single Variable Caculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
@@ -23,5 +23,5 @@
 - [MIT 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 # ML and DL
-- [Stanford CS231 Convolutional Neural Networks for Visual Recgnition](http://cs231n.stanford.edu/) [[Learning Notes](https://github.com/alfmunny/CS231n-CNN))
+- [Stanford CS231 Convolutional Neural Networks for Visual Recgnition](http://cs231n.stanford.edu/) [[Learning Notes](https://github.com/alfmunny/CS231n-CNN)]
 - [Stanford CS224n Natural Language Processing](http://web.stanford.edu/class/cs224n)
