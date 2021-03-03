@@ -8,7 +8,7 @@
 - [ ] [MIT 6.824 Distributed Systems](https://pdos.csail.mit.edu/6.824/) [[Learning Notes](https://github.com/alfmunny/MIT6.824-Distributed-Systems)] :construction:
 - [ ] [MIT 6.828 Operation System Engineering](https://pdos.csail.mit.edu/6.828/) [[Learning Notes](https://github.com/alfmunny/MIT6.828-Operation-System-Engineering)]
 - [ ] [CMU 18-447 Introduction to Computer Architecture](http://users.ece.cmu.edu/~jhoe/doku/doku.php?id=18-447_introduction_to_computer_architecture) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/computer-systems)]
-- [ ] [Operating Systems: Tree Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # Languages and Compilers
 - [ ] [MIT 6.001 SCIP](https://mitpress.mit.edu/sites/default/files/sicp/index.html) [[Learning Notes](https://github.com/alfmunny/book-notes/tree/master/sicp)] :construction:
